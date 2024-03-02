@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9fa199db0534b01afa51f036c705734, type: 3}
+  m_Name: GalleryItemsDB
+  m_EditorClassIdentifier: 
+  Items:
+  - _image: {fileID: 21300000, guid: 57a13756526904c7cb4fea6cdc65bc24, type: 3}
+    _puzzleCost: 100
+    _id: 0
+  - _image: {fileID: 21300000, guid: 9b393ec91a3c44eb3926b7b8191bf52b, type: 3}
+    _puzzleCost: 200
+    _id: 1
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 2
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 3
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 4
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 5
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 6
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 7
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 8
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 9
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 10
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 11
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 12
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 13
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 14
+  - _image: {fileID: 21300000, guid: 3b860afadbf5c4731b8fe77c1c6919d7, type: 3}
+    _puzzleCost: 300
+    _id: 15
